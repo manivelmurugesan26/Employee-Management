@@ -1,0 +1,36 @@
+.center-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 120vh;
+    
+}
+
+.center-form2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 20vh;
+}
+.center-form2 table{
+    border: 1;
+}
+.center-form form {
+
+    max-width: 600px;
+    width: 100%;
+    padding : 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 wpx 4px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.center-form Form .form-control{
+    
+    margin-bottom: 20px;
+    padding: 10px;
+}
